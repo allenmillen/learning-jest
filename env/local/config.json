@@ -1,0 +1,8 @@
+{
+  "peatio-api": 
+  {
+    "base_url": "http://peatio:8000",
+    "access_key": "RykhOK4da1MMZ02EWFcF6EaOPibeE6V7UETZCOru",
+    "secret": "EuiYqk1xbXx85CmgoAxHf5w1d7TPaK5siGWJQF1A"
+  }
+}
