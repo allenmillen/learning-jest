@@ -4,6 +4,7 @@ Pre-requisites
 - have node.js, npm, and git installed
 - have admin rights on your machine
 - commands are provided for Ubuntu OS (but might work for MacOS as well)
+- have access to Peatio installation to run tests against
 
 Steps
 1. Install jest testing framework globally "sudo npm install jest -g"
