@@ -10,7 +10,8 @@ Steps
 1. Install jest testing framework globally "sudo npm install jest -g"
 2. Download the test suite "git clone https://github.com/allenmillen/learning-jest.git"
 3. Get into the test suite folder "cd learning-jest/"
-4. Run test suite "jest"
+4. Dowload dependencies "npm install"
+5. Run test suite "jest"
 
 Scenarios
 
